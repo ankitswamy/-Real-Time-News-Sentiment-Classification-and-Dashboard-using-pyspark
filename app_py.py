@@ -13,7 +13,7 @@ from textblob import TextBlob
 import pandas as pd
 
 # Set up your NewsAPI key
-API_KEY = "9da6f7612b3a441db3f039bd59082da2"
+API_KEY = "fb9d74dc3ef14050b8a6be2148b10f2b"
 
 # Function to fetch news from NewsAPI
 def fetch_news(query):
